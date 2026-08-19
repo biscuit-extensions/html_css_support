@@ -1,0 +1,7 @@
+[extension]
+id = "html_css_support"
+name = "HTML CSS Support"
+version = "0.1.0"
+description = "CSS class and ID completion for HTML, JSX, and template files"
+author = "biscuit-extensions"
+icon = "icon.png"
